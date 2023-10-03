@@ -21,4 +21,3 @@ I'm a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### Connect with me:
 
   [<img align="left" alt="Daniel | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />](https://t.me/fullmetaldev6) 
-  [<img align="left" alt="Daniel | YouTube" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Instagram-Logo-1024x982.png" />](https://www.instagram.com/_fullmetal_developer_/)
